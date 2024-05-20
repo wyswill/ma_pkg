@@ -1,0 +1,24 @@
+{
+  "name": "ma_pkg",
+  "version": "1.0.0",
+  "description": "![流程](./doc/流程.png)",
+  "main": "index.js",
+  "workspaces": "./doc",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyswill/ma_pkg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyswill/ma_pkg/issues"
+  },
+  "homepage": "https://github.com/wyswill/ma_pkg#readme"
+}
